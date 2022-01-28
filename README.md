@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Juice2786
+- 👀 I’m interested in making themes for betterdiscord and making lua scripts
+- 🌱 I’m currently learning discord theming and html+php and lua
+- 📫 How to reach me discord Juice#2786
